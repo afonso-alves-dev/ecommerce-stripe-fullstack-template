@@ -9,7 +9,7 @@ Template completo de **E-commerce Fullstack** com:
 - Dashboard Admin
 - API REST
 
-Projeto ideal para **portfólio Fullstack**.
+ **portfólio Fullstack**.
 
 ---
 
